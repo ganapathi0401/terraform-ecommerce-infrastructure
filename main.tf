@@ -15,7 +15,7 @@ resource "aws_s3_bucket" "produt_assets" {
   bucket = "ecommerce-dev-product-assets-ganapathi"
   tags = {
     Environment = "dev"
-    Purpose     = "product-assets"
+    Purpose     = "product-assets-Gana"
   }
 }
 
