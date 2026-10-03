@@ -1,3 +1,3 @@
 locals {
-  bucket_name = "ecommerce-${var.environment}-product-assets-ganapathi"
+  bucket_name = "ecommerce-${var.environment}-product-assets-gana"
 }
